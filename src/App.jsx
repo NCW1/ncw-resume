@@ -144,8 +144,8 @@ function Footer() {
 			<hr />
 			<footer className="text-center my-4">
 				<p>
-					Copyright &copy; 2023 Chang Wang Ngen. Made with 💖 by Chang
-					Wang Ngen.
+					Copyright &copy; {new Date().getFullYear()} Chang Wang Ngen.
+					Made with 💖 by Chang Wang Ngen.
 				</p>
 			</footer>
 		</>
